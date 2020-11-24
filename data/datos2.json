@@ -1,0 +1,61 @@
+{
+  "Proyects": [
+    {
+      "title": "Cipher",
+      "img": "https://i.ibb.co/g7pyX9N/cipher.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, CSS, JS, Github",
+      "demo": "https://mariajosegarrido.github.io/SCL013-cipher/src/index.html",
+      "repo": "https://github.com/MariaJoseGarrido/SCL013-cipher"
+    },
+    {
+      "title": "Data Lover",
+      "img": "https://i.ibb.co/sVjHLHv/data-Lover.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, CSS, JS, Json, Github",
+      "demo": "https://mariajosegarrido.github.io/SCL013-data-lovers/src/index.html",
+      "repo": "https://github.com/MariaJoseGarrido/SCL013-data-lovers"
+    },
+    {
+      "title": "Social Network",
+      "img": "https://i.ibb.co/16vTvWG/social-Network.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, CSS, JS, Firebase, Github",
+      "demo": "https://mariajosegarrido.github.io/SCL013-social-network/src/index.html?#home",
+      "repo": "https://github.com/MariaJoseGarrido/SCL013-social-network"
+    },
+    {
+      "title": "Burger Queen",
+      "img": "https://i.ibb.co/JywqWtZ/burger-queen.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, CSS, JS, React, Json, Firebase, Bootstrap, Github",
+      "demo": "https://burger-queen-a8441.web.app/",
+      "repo": "https://github.com/MariaJoseGarrido/SCL013-burger-queen"
+    },
+    {
+      "title": "MdLinks",
+      "img": "https://i.ibb.co/H7k7SHn/mdlinks.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, Node.js, JS, Github",
+      "demo": "https://www.npmjs.com/package/md-link-garrido-garcia",
+      "repo": "https://github.com/MariaJoseGarrido/SCL013-md-links"
+    },
+    {
+      "title": "Hootie Hoo",
+      "img": "https://i.ibb.co/Xsy4mnz/hootie.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, CSS, JS, Bootstrap, Github",
+      "demo": "https://barbaramv.github.io/businessProject/src/index.html#/",
+      "repo": "https://github.com/MariaJoseGarrido/businessProject"
+    },
+
+    {
+      "title": "Desafío SMU - Unimarc",
+      "img": "https://i.ibb.co/YB0CP56/unimarc.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, CSS, JS, React, Json, Bootstrap, Netlify, Github", 
+      "demo": "https://4luquitas-unimarc.netlify.app/",
+      "repo": "https://github.com/MariaJoseGarrido/smu-hackaton"
+    }
+  ]
+}
