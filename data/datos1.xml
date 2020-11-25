@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<Direccion>"BLVD. MANUEL AVILA CAMACHO #6A ESQ.JOSELILLO P-11B"</Direccion>
 <Comprobante Version="3.3" Serie="MP" Fecha="2020-10-02T11:36:14" FormaPago="03" CondicionesDePago="D000023 Ref_Fact: 000092 Ref_Vta:000091" SubTotal="26531.08" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="30776.05" TipoDeComprobante="E" MetodoPago="PUE" LugarExpedicion="53398" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://facturador.zendesk.com/hc/es/articles/115002595691-XSD-Emision-3-3/XML_Dotnet_3.3.xsd">
 <CfdiRelacionados TipoRelacion="01"> 
     <CfdiRelacionado UUID="86277CAE-BED7-4A80-A03F-6E7E606D79BA"/> 
