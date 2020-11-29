@@ -1,32 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Direccion>"BLVD. MANUEL AVILA CAMACHO #6A ESQ.JOSELILLO P-11B"</Direccion>
-<Comprobante Version="3.3" Serie="MP" Fecha="2020-10-02T11:36:14" FormaPago="03" CondicionesDePago="D000023 Ref_Fact: 000092 Ref_Vta:000091" SubTotal="26531.08" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="30776.05" TipoDeComprobante="E" MetodoPago="PUE" LugarExpedicion="53398" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://facturador.zendesk.com/hc/es/articles/115002595691-XSD-Emision-3-3/XML_Dotnet_3.3.xsd">
-<CfdiRelacionados TipoRelacion="01"> 
-    <CfdiRelacionado UUID="86277CAE-BED7-4A80-A03F-6E7E606D79BA"/> 
-    <CfdiRelacionado UUID="3F97A046-98B7-401F-91CC-5C2B2C3807DD"/>
-    <CfdiRelacionado UUID="65D4BA0E-27C8-430B-83C3-5E4185834038"/>
-</CfdiRelacionados>
-
-    <Emisor Rfc="GOYA780416GM0" RegimenFiscal="612"/>
-    <Receptor Rfc="LAN7008173R5" Nombre="VENTA AL PUBLICO EN GENERAL" UsoCFDI="G02">
-        <Domicilio Calle="BLVD. MANUEL AVILA CAMACHO #6A ESQ.JOSELILLO P-11B" Colonia="LOMAS DE SOTELO" Localidad="NAUCALPAN DE JUAREZ" Pais="MEXICO" CodigoPostal="53390"/>
-    </Receptor>
-    <Conceptos>
-        <Concepto ClaveProdServ="43191600" NoIdentificacion="TEL CEL MOT G8POL 64GB" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion='MOTOROLA G8 POWER LITE 64GB' ValorUnitario="3412.97" Importe="3412.97" Descuento="0">
-            <Impuestos>
-                <Impuesto TipoImpuesto="Traslado" Base="3412.97" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="546.08"/>
-            </Impuestos>
-        </Concepto>
-        <Concepto ClaveProdServ="43191501" NoIdentificacion="TEL CEL SMG S10 128" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion='SAMSUNG GALAXY S10 128GB' ValorUnitario="13561.21" Importe="13561.21" Descuento="0">
-            <Impuestos>
-                <Impuesto TipoImpuesto="Traslado" Base="13561.21" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2169.79"/>
-            </Impuestos>
-        </Concepto>
-        <Concepto ClaveProdServ="43191600" NoIdentificacion="TEL CEL XMI PF2P 128GB" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion='XIAOMI POCOPHONE F2 PRO DUAL 128GB' ValorUnitario="9556.90" Importe="9556.90" Descuento="0">
-            <Impuestos>
-                <Impuesto TipoImpuesto="Traslado" Base="9556.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1529.10"/>
-            </Impuestos>
-        </Concepto>
-    </Conceptos>
-    <AddendaFE TipoCFD="Nota de Credito"/>
-</Comprobante>
+<root>
+  <row>
+    <Día>1</Día>
+    <Enero></Enero>
+    <Febrero></Febrero>
+    <Marzo></Marzo>
+    <Abril>852,03</Abril>
+    <Mayo></Mayo>
+    <Junio>806,32</Junio>
+    <Julio>821,23</Julio>
+    <Agosto></Agosto>
+    <Septiembre>776,46</Septiembre>
+    <Octubre>788,15</Octubre>
+    <Noviembre></Noviembre>
+    <Diciembre></Diciembre>
+  </row>
+  <row>
+    <Día>2</Día>
+    <Enero>748,74</Enero>
+    <Febrero></Febrero>
+    <Marzo>818,32</Marzo>
+    <Abril>863,81</Abril>
+    <Mayo></Mayo>
+    <Junio>796,46</Junio>
+    <Julio>816,29</Julio>
+    <Agosto></Agosto>
+    <Septiembre>770,59</Septiembre>
+    <Octubre>785,04</Octubre>
+    <Noviembre>771,92</Noviembre>
+    <Diciembre></Diciembre>
+  </row>
+  <row>
+    <Día>3</Día>
+    <Enero>754,16</Enero>
+    <Febrero>799,11</Febrero>
+    <Marzo>817,45</Marzo>
+    <Abril>861,89</Abril>
+    <Mayo></Mayo>
+    <Junio>782,86</Junio>
+    <Julio>803,98</Julio>
+    <Agosto>757,06</Agosto>
+    <Septiembre>771,45</Septiembre>
+    <Octubre></Octubre>
+    <Noviembre>769,17</Noviembre>
+    <Diciembre></Diciembre>
+  </row>
+  <row>
+    <Día>4</Día>
+    <Enero></Enero>
+    <Febrero>790,92</Febrero>
+    <Marzo>809,81</Marzo>
+    <Abril></Abril>
+    <Mayo>837,92</Mayo>
+    <Junio>769,13</Junio>
+    <Julio></Julio>
+    <Agosto>761,34</Agosto>
+    <Septiembre>773,71</Septiembre>
+    <Octubre></Octubre>
+    <Noviembre>758,53</Noviembre>
+    <Diciembre></Diciembre>
+  </row>
+  <row>
+    <Día>5</Día>
+    <Enero></Enero>
+    <Febrero>781,78</Febrero>
+    <Marzo>812,19</Marzo>
+    <Abril></Abril>
+    <Mayo>838,74</Mayo>
+    <Junio>775,58</Junio>
+    <Julio></Julio>
+    <Agosto>767,98</Agosto>
+    <Septiembre></Septiembre>
+    <Octubre>790,81</Octubre>
+    <Noviembre>757,16</Noviembre>
+    <Diciembre></Diciembre>
+  </row>
+  <row>
+    <Día>6</Día>
+    <Enero>758,49</Enero>
+    <Febrero>776,99</Febrero>
+    <Marzo>823,28</Marzo>
+    <Abril>863,99</Abril>
+    <Mayo>832,84</Mayo>
+    <Junio></Junio>
+    <Julio>801,46</Julio>
+    <Agosto>774,82</Agosto>
+    <Septiembre></Septiembre>
+    <Octubre>794,34</Octubre>
+    <Noviembre>752,01</Noviembre>
+    <Diciembre></Diciembre>
+  </row>
+  <row>
+    <Día>7</Día>
+    <Enero>771,82</Enero>
+    <Febrero>779,12</Febrero>
+    <Marzo></Marzo>
+    <Abril>853,91</Abril>
+    <Mayo>839,08</Mayo>
+    <Junio></Junio>
+    <Julio>798,79</Julio>
+    <Agosto>777,18</Agosto>
+    <Septiembre>773,76</Septiembre>
+    <Octubre>797,35</Octubre>
+    <Noviembre></Noviembre>
+    <Diciembre></Diciembre>
+  </row>
+  <row>
+    <Día>8</Día>
+    <Enero>773,12</Enero>
+    <Febrero></Febrero>
+    <Marzo></Marzo>
+    <Abril>842,05</Abril>
+    <Mayo>836,27</Mayo>
+    <Junio>764,97</Junio>
+    <Julio>793,88</Julio>
+    <Agosto></Agosto>
+    <Septiembre>773,24</Septiembre>
+    <Octubre>795,05</Octubre>
+    <Noviembre></Noviembre>
+    <Diciembre></Diciembre>
+  </row>
+</root>
