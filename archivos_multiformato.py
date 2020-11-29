@@ -75,8 +75,8 @@ with open("data\datos3.csv") as datos:
         i = i + 1
 
 #PROCESAR TXT
-with open("data\datos4.csv") as datos:
-    reader = csv.reader(datos)
+with open("data\datos4.txt") as datos:
+    reader = csv.reader(datos,delimiter='alt+09')
     i = 1
     for linea in reader:
         if i > 2:
